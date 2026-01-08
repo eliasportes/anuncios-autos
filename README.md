@@ -1,4 +1,4 @@
-# Análisis de Anuncios de Vehículos
+# App para Análisis de Anuncios de Vehículos
 
 Este proyecto es una aplicación web interactiva desarrollada en Python que permite realizar un análisis exploratorio de datos (EDA) sobre un conjunto de datos de anuncios de venta de coches en EE. UU. La aplicación está construida con **Streamlit** y desplegada en la nube mediante **Render**.
 
